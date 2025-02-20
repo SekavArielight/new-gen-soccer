@@ -14,7 +14,7 @@ import shoe4 from './ngs-5.jpg'
 import shoe5 from './ngs-6.jpg'
 import shoe6 from './ngs-7.jpg'
 import shoe7 from './ngs-8.jpg'
-import shoe8 from './shoe8.svg'
+import shoe8 from './ngs-9.jpg'
 
 import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './ngs-1.jpg'

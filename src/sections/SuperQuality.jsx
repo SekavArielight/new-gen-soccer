@@ -10,15 +10,20 @@ const SuperQuality = () => {
     >
       <div className="flex flex-1 flex-col">
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
-          We Provide You <span className="text-coral-red">Super Quality</span> Shoes
+          ⚽ Our Story – Passion,{" "}
+          <span className="text-coral-red">Teamwork,</span> Excellence
         </h2>
         <p className="mt-4 lg:max-w-lg info-text">
-          Ensuring premium comfort and style, our meticulously crafted footwear
-          is designed to elevate your experience, providing you with unmatched
-          quality, innovation, and a touch of elegance.
+          Founded in Umuahia, Abia State, New Generation Soccer FC is more than
+          just a football club—it’s a movement dedicated to nurturing talent,
+          fostering teamwork, and competing at the highest level. With a squad
+          of passionate players and experienced coaches, we strive for
+          excellence both on and off the pitch. Our mission is to develop future
+          stars while uniting the community through the love of football.
         </p>
         <p className="mt-6 lg:max-w-lg info-text">
-          Our dedication to detail and excellence ensures your satisfaction.
+          Join us on this journey as we train, compete, and inspire the next
+          generation of champions! 🔥🏆
         </p>
         <div className="mt-11">
           <Button label="View details" />
@@ -26,12 +31,12 @@ const SuperQuality = () => {
       </div>
 
       <div className="flex-1 flex justify-center items-center">
-        <img 
-          src={shoe8} 
-          alt="shoe8" 
-          width={570} 
-          height={522} 
-          className="object-contain" 
+        <img
+          src={shoe8}
+          alt="shoe8"
+          width={400}
+          // height={522}
+          className="object-contain rounded-2xl"
         />
       </div>
     </section>
