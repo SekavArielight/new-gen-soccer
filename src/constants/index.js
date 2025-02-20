@@ -4,7 +4,7 @@ import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6
 export const navLinks = [
     { href: "#home", label: "Home" },
     { href: "#about-us", label: "About Us" },
-    { href: "#products", label: "Products" },
+    { href: "#products", label: "Gallery" },
     { href: "#contact-us", label: "Contact Us" },
 ];
 
@@ -24,9 +24,9 @@ export const shoes = [
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '2005', label: 'Year Founded' },
+    { value: '5', label: 'Trophies' },
+    { value: '20+', label: 'Academy Talents' },
 ];
 
 export const products = [
